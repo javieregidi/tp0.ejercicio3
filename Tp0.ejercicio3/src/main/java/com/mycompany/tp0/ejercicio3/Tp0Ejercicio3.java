@@ -12,6 +12,6 @@ package com.mycompany.tp0.ejercicio3;
 public class Tp0Ejercicio3 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello World! hola sos una patraña");
     }
 }
